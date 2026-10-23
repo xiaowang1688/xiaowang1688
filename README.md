@@ -12,7 +12,7 @@ I'm interested in **Python Automation Engineer, QA Automation Engineer, API Test
 [![Playwright Chromium E2E](https://github.com/xiaowang1688/python-automation-starter/actions/workflows/browser-e2e.yml/badge.svg)](https://github.com/xiaowang1688/python-automation-starter/actions/workflows/browser-e2e.yml)
 [![Security Scanner CI](https://github.com/xiaowang1688/smart-contract-vulnerability-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaowang1688/smart-contract-vulnerability-scanner/actions/workflows/ci.yml)
 
-**[Technical Résumé](https://github.com/xiaowang1688/python-automation-starter/blob/main/RESUME.md)** · **[Full Engineering Portfolio](https://github.com/xiaowang1688/python-automation-starter/blob/main/PORTFOLIO.md)** · **[QA Test Strategy & Evidence](https://github.com/xiaowang1688/python-automation-starter/blob/main/docs/QA_ENGINEERING_EVIDENCE.md)** · **[CI Results](https://github.com/xiaowang1688/python-automation-starter/actions)**
+**[LinkedIn Profile](https://www.linkedin.com/in/%E6%B6%9B-%E5%BC%A0-30116924a/)** · **[Technical Résumé](https://github.com/xiaowang1688/python-automation-starter/blob/main/RESUME.md)** · **[Full Engineering Portfolio](https://github.com/xiaowang1688/python-automation-starter/blob/main/PORTFOLIO.md)** · **[QA Test Strategy & Evidence](https://github.com/xiaowang1688/python-automation-starter/blob/main/docs/QA_ENGINEERING_EVIDENCE.md)** · **[CI Results](https://github.com/xiaowang1688/python-automation-starter/actions)**
 
 ## Featured engineering work
 
@@ -50,7 +50,7 @@ I aim to deliver repeatable scripts with explicit failure handling, test coverag
 - **Preferred work:** Python automation, QA/test automation, API regression, browser testing, scripting and data workflows
 - **Communication:** Chinese-first; I use translation assistance for English technical writing and async collaboration. Spoken English expectations can be discussed upfront.
 - **How to evaluate my work:** Inspect the linked implementation and tests, review [CI history](https://github.com/xiaowang1688/python-automation-starter/actions), or share a practical coding assessment.
-- **Contact:** For non-sensitive initial inquiries, [open an issue in the portfolio repository](https://github.com/xiaowang1688/python-automation-starter/issues/new). Please do **not** include passwords, private data, or confidential documents in a public issue.
+- **Contact:** [LinkedIn professional profile](https://www.linkedin.com/in/%E6%B6%9B-%E5%BC%A0-30116924a/) or, for non-sensitive initial technical inquiries, [open an issue in the portfolio repository](https://github.com/xiaowang1688/python-automation-starter/issues/new). Please do **not** include passwords, private data, or confidential documents in a public issue.
 
 ### 中文简介
 
