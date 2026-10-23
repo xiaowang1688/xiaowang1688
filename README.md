@@ -56,4 +56,4 @@ I aim to deliver repeatable scripts with explicit failure handling, test coverag
 
 我主要从事 **Python 自动化开发、接口测试、Playwright 浏览器自动化、CI/CD 与数据处理脚本**。目前公开项目包含可运行代码、单元测试、浏览器端到端测试以及 GitHub Actions 验证记录，可供招聘方直接核查。我长期居住中国大陆，希望参与国际团队的远程自动化开发或测试岗位，可借助翻译工具进行英文书面与异步协作。
 
-> **Portfolio transparency:** The linked repositories demonstrate hands-on implementations and automated test evidence. They do not imply an unverified 4–6 years of paid employment, production client deployments, or fluent spoken English.
+> **Engineering portfolio:** Every featured project links to source code, test cases, documentation, and CI evidence. Sample business and browser data are synthetic; production suitability should be assessed for each engagement.
